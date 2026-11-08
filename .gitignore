@@ -1,0 +1,16 @@
+# Python 缓存与本机虚拟环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 密钥、本机配置与运行日志
+.env
+.env.*
+*.log
+
+# 编辑器和系统缓存
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
